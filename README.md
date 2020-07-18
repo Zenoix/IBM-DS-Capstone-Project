@@ -15,3 +15,17 @@ The agency needs answers to several questions. The answers to those questions mu
 4. Can a predictive model be built for a future prediction of the possibility of complaints of the type that you have identified in response to question 1?
 
 Your organization has assigned you as the lead data scientist to provide the answers to these questions. You need to work on getting answers to them in this Capstone Project by following the standard approach of data science and machine learning.
+
+## Datasets Used
+
+I have used two datasets that the course provided in this project.
+
+### 311 complaint dataset
+
+The dataset I used was already placed on an IBM server which is where I got it from. You can download the data using this link: https://cocl.us/311_NYC_Dataset. The downloaded data will have complaints submitted between 2010 and 2020.
+The original dataset is available at https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9. You can download part of this data by using SODA API.
+
+### PLUTO dataset for housing
+
+The dataset I downloaded comes from here: https://www1.nyc.gov/assets/planning/download/zip/data-maps/open-data/nyc_pluto_18v1.zip.
+The original dataset for housing can be accessed from https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/xuk2-nczf. 

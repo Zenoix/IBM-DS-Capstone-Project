@@ -1,4 +1,10 @@
-# IBM-DS-Capstone-Project
+# IBM DS Capstone Project
+
+## Introduction
+This repository holds the notebook files for the capstone project that is part of my IBM Data Science Professional Certificate. Keep in mind that this is the first project I have ever done in the field of data science and I am still quite new so it won't be perfect however, any feedback is greatly appreciated. Also as this is a repo based on the course's requirements, some aspects of a normal data science project may be absent in this repo or incomplete altogether.
+
+## Included Files:
+- Currently Nothing
 
 ## Problem Statement
 The people of New Yorker use the 311 system to report complaints about the non-emergency problems to local authorities. Various agencies in New York are assigned these problems. The Department of Housing Preservation and Development of New York City is the agency that processes 311 complaints that are related to housing and buildings.

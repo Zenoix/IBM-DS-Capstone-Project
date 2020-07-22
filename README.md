@@ -33,5 +33,5 @@ The original dataset is available at https://data.cityofnewyork.us/Social-Servic
 
 #### PLUTO dataset for housing
 
-The dataset I downloaded comes from here: https://www1.nyc.gov/assets/planning/download/zip/data-maps/open-data/nyc_pluto_18v1.zip.
+The dataset I downloaded comes from here: https://www1.nyc.gov/assets/planning/download/zip/data-maps/open-data/nyc_pluto_18v1.zip. This comes in a zip file which will need to be extracted first before the data can be used.
 The original dataset for housing can be accessed from https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/xuk2-nczf. 

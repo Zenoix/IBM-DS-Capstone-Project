@@ -5,14 +5,15 @@ This repository holds the notebook files for the capstone project that is part o
 
 ## What I learnt:
 - Basic git commands
-- Using pandas to import csv files
+- Using pandas to import and save csv files
 - Using pandas to explore and manipulate data
 - Basic data visualisation with matplotlib, seaborn
 - Creating choropleth map with folium
 
 ## Included Files:
 - Question 1.ipynb (Clean main dataset and light exploration to find what problem the department should focus on first)
-- Question 2.ipynb (WIP)
+- Question 2.ipynb (Found out the amount of heating complaints depending on the location of the house)
+- Question 3.ipynb (Find correlation between housing characteristics and whether a complaint has/will be made)
 
 ## Problem Statement
 The people of New Yorker use the 311 system to report complaints about the non-emergency problems to local authorities. Various agencies in New York are assigned these problems. The Department of Housing Preservation and Development of New York City is the agency that processes 311 complaints that are related to housing and buildings.

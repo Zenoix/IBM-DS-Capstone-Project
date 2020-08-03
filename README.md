@@ -9,6 +9,8 @@ This repository holds the notebook files for the capstone project that is part o
 - Using pandas to explore and manipulate data
 - Basic data visualisation with matplotlib, seaborn
 - Creating choropleth map with folium
+- Find correlation using scipy
+- Visualising correlation using correlation matrix
 
 ## Included Files:
 - Question 1.ipynb (Clean main dataset and light exploration to find what problem the department should focus on first)

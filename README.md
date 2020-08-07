@@ -11,11 +11,15 @@ This repository holds the notebook files for the capstone project that is part o
 - Creating choropleth map with folium
 - Find correlation using scipy
 - Visualising correlation using correlation matrix
+- Prepare data for model building
+- Create and train logistic regression, multiple linear regression, and K-nearest neighbours models
+- Evaluate models for their accuracy
 
 ## Included Files:
 - Question 1.ipynb (Clean main dataset and light exploration to find what problem the department should focus on first)
 - Question 2.ipynb (Found out the amount of heating complaints depending on the location of the house)
 - Question 3.ipynb (Found correlation between housing characteristics and whether a complaint has/will be made)
+- Question 4.ipynb (Created and evaluated machine learning models for the heating complaints)
 
 ## Problem Statement
 The people of New Yorker use the 311 system to report complaints about the non-emergency problems to local authorities. Various agencies in New York are assigned these problems. The Department of Housing Preservation and Development of New York City is the agency that processes 311 complaints that are related to housing and buildings.

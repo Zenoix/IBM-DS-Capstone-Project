@@ -37,9 +37,13 @@ The agency needs answers to several questions. The answers to those questions mu
 
 Your organization has assigned you as the lead data scientist to provide the answers to these questions. You need to work on getting answers to them in this Capstone Project by following the standard approach of data science and machine learning.
 
-## Datasets Used
+## Resources and Datasets Used
 
-I have used two datasets that the course provided in this project.
+**Python Version:** 3.8
+
+**Packages:** pandas, numpy, scipy, sklearn, matplotlib, seaborn, folium, itertools
+
+I have used two datasets that the course provided in this project and also one geographical json file.
 
 #### 311 complaint dataset
 

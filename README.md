@@ -50,3 +50,8 @@ The original dataset is available at https://data.cityofnewyork.us/Social-Servic
 
 The dataset I downloaded comes from here: https://www1.nyc.gov/assets/planning/download/zip/data-maps/open-data/nyc_pluto_18v1.zip. This comes in a zip file which will need to be extracted first before the data can be used.
 The original dataset for housing can be accessed from https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/xuk2-nczf. 
+
+
+#### Data on borough boundaries in New York
+
+This contained geographical data about the boundaries of the boroughs in New York in a geojson format. This was use in the question 2 notebook to help with the analysis of the geographical effects on the number of complaints made. This data can be accessed from https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm. The data does not need to be downloaded as the code in the notebook already downloads it automatically when run.

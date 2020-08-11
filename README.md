@@ -5,6 +5,7 @@ This repository holds the notebook files for the capstone project that is part o
 
 ## What I learnt:
 - Basic git commands
+- Basic analytical and statistical methods
 - Using pandas to import and save csv files
 - Using pandas to explore and manipulate data
 - Basic data visualisation with matplotlib, seaborn

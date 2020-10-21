@@ -16,6 +16,14 @@ This repository holds the notebook files for the capstone project that is part o
 - Create and train logistic regression, multiple linear regression, and K-nearest neighbours models
 - Evaluate models for their accuracy
 
+## Feedback I recieved on the Analysis and Report:
+- Remember the whole purpose of the analysis and what information am I trying to find. How can my findings and predictive model be useful to clients? For example, can I use the findings to urge building owners to review their buildings? Write a conclusion to the report and link it to the overall problem I am trying to solve.
+- Making a boxplot for the number of complaints would have helped visualised the variance of the data which could have guided me in a direction to take for model building such as creating models to predict if a building will land in the top certain percentage of complaints made.
+- Try to keep the dataset for the model varied to prevent overly unbalanced data. It was highly likely that because the predictive model’s training data solely consisted of buildings in the Bronx, the data was unbalanced as a result of the already large proportion of buildings that received complaints compared to ones that did not. Instead, I should have included more geographical locations in the model building stage.
+- Do not worry about extremely low p-values especially because they had extremely low Pearson correlations and my dataset was very large. Also, if features have extremely low Pearson correlations, then I should not have used them as features in the model. Overall, I needed to analyse the Pearsons and p-value more closely before creating any models.
+- I did not report on the models clearly and there were parts that were not necessary such as the models’ data sections. Regarding the multiple linear regression, it is important to state the coefficients and intercept with an epsilon as an equation. 
+- Potentially look at Cohen’s kappa, ROC curves, stepwise multiple linear regressions, variance inflation factor linear models, residual plots, and decision trees for regression.
+
 ## Included Files:
 - Question 1.ipynb (Clean main dataset and light exploration to find what problem the department should focus on first)
 - Question 2.ipynb (Found out the amount of heating complaints depending on the location of the house)

@@ -29,6 +29,8 @@ This repository holds the notebook files for the capstone project that is part o
 - Question 2.ipynb (Found out the amount of heating complaints depending on the location of the house)
 - Question 3.ipynb (Found correlation between housing characteristics and whether a complaint has/will be made)
 - Question 4.ipynb (Created and evaluated machine learning models for the heating complaints)
+- Final Report.ipynb (This is the notebook that I created the report in)
+- Final Report.html (Report)
 
 ## Problem Statement
 The people of New Yorker use the 311 system to report complaints about the non-emergency problems to local authorities. Various agencies in New York are assigned these problems. The Department of Housing Preservation and Development of New York City is the agency that processes 311 complaints that are related to housing and buildings.
